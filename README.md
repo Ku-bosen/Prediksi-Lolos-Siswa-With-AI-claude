@@ -23,3 +23,7 @@ Cara menggunakan :
 5. Tekan tombol prediksi kelulusan dan munculah hasilnya.
 
 !!!!Sangat disarankan menggunakan dataset lebih dari 1000, karena semakin banyak data yang diolah oleh Machine Learning maka tingkat akurasi akan semakin tinggi.
+
+!!!!! UPDATE 16/08/2025 14:05
+Saya telah menambahkan contoh file yang bisa di uploud pada Machine Learning ini.
+Apabila anda tidak ingin merubah codingan pastikan format file dalam CSV memiliki format yang sama dengan contoh yang telah disediakan.
